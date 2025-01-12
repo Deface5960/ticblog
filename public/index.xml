@@ -15,5 +15,12 @@
       <guid>https://blog.theinnercircle.lol/posts/my-first-post/</guid>
       <description></description>
     </item>
+    <item>
+      <title></title>
+      <link>https://blog.theinnercircle.lol/posts/the-beginning-of-the-tic-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.theinnercircle.lol/posts/the-beginning-of-the-tic-blog/</guid>
+      <description>&lt;p&gt;Here we are, the beginning of my web admin/creation journey, building a nice (albeit very basic) blog for my discord group! This is an extremely early prototype blog and essentially a proof of concept, but I&amp;rsquo;ll be working on this in the future and will hopefully have regular updates whenever I&amp;rsquo;m available to post.&lt;/p&gt;&#xA;&lt;p&gt;The idea came from a NetworkChuck video about creating a blog/website that you own based on custom domains that you have purchased. I love this guy&amp;rsquo;s videos, and while some of them are obvious plugs for a service or product, he tries to integrate useful and somewhat meaningful ideas into his content, and that&amp;rsquo;s something I feel YouTube sorely needs.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
