@@ -1,3 +1,9 @@
++++
+date = '2025-01-11T15:55:43-06:00'
+draft = false
+title = 'The Beginning of the TiC Blog!'
++++
+
 Here we are, the beginning of my web admin/creation journey, building a nice (albeit very basic) blog for my discord group! This is an extremely early prototype blog and essentially a proof of concept, but I'll be working on this in the future and will hopefully have regular updates whenever I'm available to post.
 
 The idea came from a NetworkChuck video about creating a blog/website that you own based on custom domains that you have purchased. I love this guy's videos, and while some of them are obvious plugs for a service or product, he tries to integrate useful and somewhat meaningful ideas into his content, and that's something I feel YouTube sorely needs.
