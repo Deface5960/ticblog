@@ -1,7 +1,7 @@
 +++
 date = '2025-01-11T15:55:43-06:00'
 draft = false
-title = 'The Beginning of the TiC Blog!'
+title = 'The Beginning of the TIC Blog!'
 +++
 
 Here we are, the beginning of my web admin/creation journey, building a nice (albeit very basic) blog for my discord group! This is an extremely early prototype blog and essentially a proof of concept, but I'll be working on this in the future and will hopefully have regular updates whenever I'm available to post.
