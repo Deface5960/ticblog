@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/The beginning of the TiC blog!.md",
+                "file": "content/posts/Why make a website?.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "The beginning of the TiC blog!"
+              "title": "Why make a website?"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "9cf9217f3920494f",
   "lastOpenFiles": [
-    "content/posts/my-first-post.md",
     "content/posts/The beginning of the TiC blog!.md",
+    "content/posts/Why make a website?.md",
+    "content/posts/my-first-post.md",
     "Untitled.md",
     "Untitled.canvas",
     "public/posts/the-beginning-of-the-tic-blog/index.html",
