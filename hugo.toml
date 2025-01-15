@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'The Inner Circle Blog'
 theme = 'ananke'
  
+[params.meta]
+    favicon             = false
+    faviconVersion      = "1"
