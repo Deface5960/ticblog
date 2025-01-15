@@ -5,11 +5,11 @@ title = 'Why make a website?'
 +++
 
 **The purpose**
-<br/><br/>
+
 Many of you may be wondering, why bother creating a website? Just use social media! Well, a website will always be mine, the domain will always be mine as long as I pay the registrar, it can't be taken away from me as long as I manage the website. This is my personal online journal, my life story and my progress as well as accountability for projects. If I don't have anyone to hold me accountable for projects, if I don't have even the sense of accountability, I just won't complete them, and this one was completed due to the visibility of my Discord server and the visibility of the entire internet.
 
 **The List**
-<br/><br/>
+
 So what projects do I have in mind? I'm glad you asked! Let's go over a few shall we?
 - Localized LLM with my own chat bot available for anything I need.
 	- This is something I've been wanting to do for a while. I installed ollama with oatmeal for ollama as a terminal chat bot and it was awesome! The problem is that it's a terminal chat bot and I want other people in my home and possibly my friends to be able to use this chat bot without the need to worry about big corpo stealing their data or scraping their sessions to build their own models. Which leads to the next item on the list!
@@ -19,7 +19,7 @@ So what projects do I have in mind? I'm glad you asked! Let's go over a few shal
 	- This one is also a very interesting project for me, it's the next step in my self-hosting journey outside of a self-hosted static website. This will be my own personal Google Drive that I can access anywhere through my Android phone or any computer that has an internet connection. Just another path towards digital ownership and the process of de-googling the most important parts of my life!
 
 **The Conclusion**
-<br/><br/>
+
 If you've read this far, then thank you! I really appreciate the time and effort anyone will take to read this blog, and I think it's going to be a fun way for me to look back on some of the projects I've completed and the hardships that may come with the work. Regardless, let the journey begin! 
 
 Your web admin DeFaced
