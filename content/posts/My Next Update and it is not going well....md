@@ -1,7 +1,7 @@
 +++
 date = '2025-02-3T15:55:43-06:00'
 draft = false
-title = 'My Next Update (It's not going well...)'
+title = 'My Next Update and it is not going well...'
 +++
 
 Well here I am again, making another update for you all, hoping to provide a little bit of good news, unfortunately that's not the case...Here's the deal, I'm a big linux distro hopper, and at some point I wanted to play an old and outdated but still supported MMO on my Windows install, so I resized the partition with my containers, and also installed an Arch distro called CachyOS on my daily driver SSD. These actions have caused the GRUB bootloader on my EndeavorOS install that houses my containers for Cloudflont and Jellyfin, to wipe itself out and I have no idea why that would've happened other than Windows essentially destroying the boot loader when I created a gaming partition on that drive to install games on Windows, long story short I won't be doing that again and have since moved towards setting up a stable daily driver and a stable server install for my PC and will not be touching it in the future.
