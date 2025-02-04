@@ -4,7 +4,7 @@ draft = false
 title = 'The first progress update'
 +++
 
-Hello again! So what's been going on with me lately? I'm hoping to give you a good idea and description of what I've been working on lately. Here it goes:
+Hello again! So what's been going on with me lately? I'm hoping to give you a good idea and description of what I've been working on. Here it goes:
 
 **The Updates**
 

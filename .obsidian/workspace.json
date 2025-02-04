@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/The first progress update.md",
+                "file": "content/posts/My Next Update (It's not going well...).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The first progress update"
+              "title": "My Next Update (It's not going well...)"
             }
           }
         ]
@@ -164,10 +164,11 @@
   },
   "active": "9cf9217f3920494f",
   "lastOpenFiles": [
-    "content/posts/Why make a website?.md",
     "content/posts/The first progress update.md",
-    "Untitled 1.canvas",
+    "content/posts/My Next Update (It's not going well...).md",
     "content/posts/The beginning of the TiC blog!.md",
+    "content/posts/Why make a website?.md",
+    "Untitled 1.canvas",
     "public/posts/why-make-a-website/index.html",
     "public/posts/why-make-a-website",
     "content/posts/my-first-post.md",
