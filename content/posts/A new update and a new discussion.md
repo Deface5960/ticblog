@@ -1,5 +1,5 @@
 +++
-date = '2025-02-017T15:55:43-06:00'
+date = '2025-02-17T15:55:43-06:00'
 draft = false
 title = 'A new update and a new discussion'
 +++
