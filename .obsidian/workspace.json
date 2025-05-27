@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Test.md",
+                "file": "content/posts/Into the clouds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Into the clouds"
             }
           }
         ]
@@ -165,10 +165,10 @@
   },
   "active": "9cf9217f3920494f",
   "lastOpenFiles": [
+    "content/posts/Test.md",
     "content/posts/Into the clouds.md",
     "content/posts/It lives again!!!!!!.md",
     "content/posts/My Next Update and it is not going well....md",
-    "content/posts/Test.md",
     "content/posts/A new update and a new discussion.md",
     "content/posts/An update into the ether and a word about the machines.md",
     "themes/ananke/layouts/partials/google/analytics.html",
