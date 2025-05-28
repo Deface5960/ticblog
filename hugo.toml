@@ -6,3 +6,7 @@ theme = 'ananke'
 [params.meta]
     favicon             = false
     faviconVersion      = "1"
+
+mainSections = ["posts"]
+
+paginate = 5
