@@ -9,4 +9,4 @@ theme = 'ananke'
 
 mainSections = ["posts"]
 
-paginate = 5
+paginate = "10"
